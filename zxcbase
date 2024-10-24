@@ -1,6 +1,6 @@
 userids = {
 -- [айди игрока в роблоксе] = true,
 [5544406281] = true,
-[1182423079] = true
+[5544406281] = true
 }
 return userids
